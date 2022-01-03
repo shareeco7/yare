@@ -1,0 +1,2 @@
+# yare
+allow ina xafid
